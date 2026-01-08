@@ -122,15 +122,11 @@
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=SamirGamal10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamirGamal10&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SamirGamal10&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=SamirGamal10&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGamal10&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGamal10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
