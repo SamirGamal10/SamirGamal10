@@ -124,12 +124,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamirGamal10&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirGamal10&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamirGamal10&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SamirGamal10&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGamal10&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirGamal10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
